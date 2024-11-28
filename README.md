@@ -1,5 +1,5 @@
 # 💫 About Me:
-Passionate about software development and cybersecurity, I specialize in solving complex challenges related to database security, project management, and the development of secure web applications and decentralized applications (DApps). My journey in the tech field has been fueled by a strong commitment to delivering robust, efficient, and secure solutions
+Passionate about software development and cybersecurity, I specialize in solving complex challenges related to database security, project management,  secure web applications and decentralized applications (DApps). My journey in the tech field has been fueled by a strong commitment to delivering robust, efficient, and secure solutions
 
 
 # 💻 Tech Stack:
