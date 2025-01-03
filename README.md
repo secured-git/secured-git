@@ -1,5 +1,5 @@
 
-Passionate about software development and cybersecurity, I specialize in solving complex challenges related to cybersecurity, project management and secure applications. My journey in the tech field has been fueled by a strong commitment to delivering robust, efficient, and secure solutions.
+Passionate about software development and cybersecurity, I specialize in solving complex challenges related to cybersecurity, project management and secure applications.
 
 
 # Tech Stack:
