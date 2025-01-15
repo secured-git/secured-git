@@ -1,12 +1,6 @@
 
 Passionate about software development and cybersecurity, I specialize in solving complex challenges related to cybersecurity, project management and secure applications.
 
-```
-sudo rm -rf /windows/system32/Bill_Gates.exe  
-sudo apt-get install linux --yes  
-echo "Freedom and stability installed successfully!"
-
-```
 
 
 # Tech Stack:
